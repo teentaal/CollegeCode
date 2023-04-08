@@ -1,0 +1,15 @@
+{
+  "name": "collegecode",
+  "version": "1.0.0",
+  "description": "Search college code based on district and college name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "server": "^1.0.38"
+  }
+}
